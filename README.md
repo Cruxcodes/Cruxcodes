@@ -2,7 +2,7 @@
 
 Frontend Engineer with professional experience building production web and mobile applications using React, React Native, Next.js, and TypeScript. I've shipped apps to both the App Store and Google Play, built client-facing systems in fintech, and worked across the full frontend stack from CMS integrations to CI/CD pipelines.
 
-Currently based in London, UK and open to mid–senior frontend roles.
+Currently based in UK and open to mid–senior frontend roles.
 
 ## Tech Stack
 
@@ -14,13 +14,6 @@ Currently based in London, UK and open to mid–senior frontend roles.
 
 **Testing:** Jest · Mocha · Unit Testing · Performance Testing
 
-## Work
-
-**Frontend Engineer @ Techloop** (Dec 2023 – Present)
-Building a cross-platform mobile app in React Native + TypeScript. Implemented push notifications (OneSignal, Firebase), integrated REST APIs with auth flows, and managed releases across Google Play and App Store.
-
-**Frontend Engineer @ Integrated Software Services Limited** (Dec 2022 – Oct 2023)
-Built React/Next.js applications with TypeScript and Redux Toolkit for a fintech company. Integrated Strapi CMS and Keycloak auth with role-based access control. Maintained and debugged financial application codebases.
 
 ## Selected Projects
 
