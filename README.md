@@ -2,7 +2,6 @@
 
 Frontend Engineer with professional experience building production web and mobile applications using React, React Native, Next.js, and TypeScript. I've shipped apps to both the App Store and Google Play, built client-facing systems in fintech, and worked across the full frontend stack from CMS integrations to CI/CD pipelines.
 
-Currently based in UK and open to mid–senior frontend roles.
 
 ## Tech Stack
 
