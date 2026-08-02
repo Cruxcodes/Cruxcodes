@@ -32,4 +32,5 @@ I write about frontend development on [DEV.to](https://dev.to/cruxcodes):
 
 - **Portfolio:** [abdullahmudathir.com](https://abdullahmudathir.com)
 - **DEV.to:** [dev.to/cruxcodes](https://dev.to/cruxcodes)
-- **Email:** olam4461@gmail.com
+- **Email:** dev@abdullahmudathir.com
+  
