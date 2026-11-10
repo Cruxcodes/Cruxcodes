@@ -37,4 +37,4 @@
 
 ## Links
 
-**Portfolio:** [abdullahmudathir.com](https://abdullahmudathir.com) · **LinkedIn:** [in/cruxcodes](https://linkedin.com/in/cruxcodes) · **Email:** dev@abdullahmudathir.com
+**Portfolio:** [abdullahmudathir.com](https://abdullahmudathir.com) · **LinkedIn:** [in/cruxcodes](https://linkedin.com/in/cruxcodes) · **Email:** abdullaholamudathir@gmail.com
