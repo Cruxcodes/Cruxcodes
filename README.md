@@ -25,7 +25,7 @@
 
 | Project | What it is | Stack |
 |---------|------------|-------|
-| Weathered | Serverless weather prediction platform | AWS Lambda, API Gateway, DynamoDB, SageMaker, TypeScript, Plotly.js |
+| [Weathered](https://github.com/Cruxcodes/Weathered) | Serverless weather prediction platform | AWS Lambda, API Gateway, DynamoDB, SageMaker, TypeScript, Plotly.js |
 | [RoastMyPR](https://github.com/Cruxcodes/cursor-london) | AI pull-request reviewer, built at the Cursor London hackathon | TypeScript, LLM APIs |
 | [Throughline](https://github.com/Cruxcodes/ThroughLine) | Journaling app that turns entries into a structured clinical handoff brief (VibeHack London, later a startup accelerator application) | React Native (Expo), Node.js/Express, Claude API, SQLite |
 | XeroSMS | Virtual numbers, eSIM data plans, in-app wallet and payments: 10k+ downloads | React Native, TanStack Query, OneSignal |
