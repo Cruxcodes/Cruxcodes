@@ -12,9 +12,11 @@
 **Backend & APIs:** Node.js · Python (Django) · REST APIs · Strapi
 
 **Cloud:** AWS (Lambda · API Gateway · DynamoDB · S3 · SageMaker)
+
 **Data:** MongoDB · Supabase · Firebase
 
 **Auth:** Keycloak (RBAC, token-based auth)
+
 **Frontend & Mobile:** TypeScript · React · Next.js · React Native · Redux · Zustand · TanStack Query · Tailwind
 
 **Testing & Tooling:** Jest · Playwright · Git · CI/CD · Postman · OpenAI API
